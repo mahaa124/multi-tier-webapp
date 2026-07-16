@@ -1,0 +1,26 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 640px;
+  margin: 80px auto;
+  text-align: center;
+  color: #1a1a1a;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  border: 1px solid #333;
+  background: #1a1a1a;
+  color: white;
+}
+
+pre {
+  text-align: left;
+  background: #f4f4f4;
+  padding: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  white-space: pre-wrap;
+}
